@@ -8,6 +8,17 @@ A virtual mouse is software that allows users to give mouse inputs to a system w
 4. cd C:\Users\EG0104TX\Virual-Mouse\src
 5. python Virtual_Mouse.py
 
+# What can you do using Virtual Mouse
+1. Left click
+2. Right click
+3. Double click
+4. No movement
+5. Moving cursor
+6. Drop and Drag
+7. Brightness control
+8. Volume control
+9. Scrolling
+
 # System Constraints 
 1.	The picture of the hand must be taken against a dark background.  
 2.	The camera should be perpendicular to the hand.  
